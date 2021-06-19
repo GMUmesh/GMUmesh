@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GMUmesh
+- 👀 I’m interested in JavaScript, React, Wordpress, SQL, NodeJS, C++, PHP, SASS, Cypto
+- 🌱 I’m currently learning React Native
+- 💞️ I’m looking to collaborate on JS projects
+- 📫 How to reach me umessgm@gmail.com
